@@ -1,0 +1,11 @@
+  .button
+  {
+    display: block;
+    height: 50px;
+    width: 150px;
+    border: solid 1px black;
+    text-align: center;
+    text-decoration: 10px;
+    margin-bottom: 10px;
+    line-height: 50px;
+  }
